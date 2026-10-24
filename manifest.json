@@ -1,0 +1,65 @@
+{
+  "schema": "public-docs-export-v1",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1587,
+      "sha256": "34f3670fe590e87cd380be25215b0fe83cfb2049dbad25072c7dee51d502cde5"
+    },
+    {
+      "path": "README.ko.md",
+      "bytes": 1649,
+      "sha256": "2a0be398bedb9fb54d6409ff855d9fc2c7212b25d3ff20c528f60f347c81dcd7"
+    },
+    {
+      "path": "docs/methodology.md",
+      "bytes": 4410,
+      "sha256": "5c5f4156daa29fc960f8f43c9d922085a02cff38671ecf63bd85a855ebc1e425"
+    },
+    {
+      "path": "docs/results.md",
+      "bytes": 5065,
+      "sha256": "8389fab88aa2e9c709c9f43427d9a5fd4aea8c3ce91297dcf95c14fcacdbe1c0"
+    },
+    {
+      "path": "docs/limitations.md",
+      "bytes": 2591,
+      "sha256": "8b5339a9cacf7751c477b1f254d7a93a253200663d670937b2f2d12217673ccd"
+    },
+    {
+      "path": "docs/provenance.md",
+      "bytes": 2602,
+      "sha256": "00309fbc5e24e672578f01436e8a972658787c013b41b48e014a0d0f4b162fb1"
+    },
+    {
+      "path": "docs/en/methodology.md",
+      "bytes": 4607,
+      "sha256": "20feb04f4e7264d0e9676f35de8213f78687be7f46e47078122d36b7578b5b39"
+    },
+    {
+      "path": "docs/en/results.md",
+      "bytes": 5031,
+      "sha256": "b6f5ce220c43c788ab5928ea3b1ba6a41fe6c849c0cc2b9dc90df7dc2cd35a0d"
+    },
+    {
+      "path": "docs/en/limitations.md",
+      "bytes": 2696,
+      "sha256": "3f3a0d77525aad787a0c4cc364a88334e1646739ebb053724657f7b4df6aebe4"
+    },
+    {
+      "path": "docs/en/provenance.md",
+      "bytes": 2673,
+      "sha256": "dcaa844d0d354038ea308cb834069863c2973837f3ac009108f6e653b579b438"
+    },
+    {
+      "path": "results/internal-check.csv",
+      "bytes": 971,
+      "sha256": "54275a434b156a02b35bcbbc327268da299d9f30d99e71c63bdb89d7e6626179"
+    },
+    {
+      "path": "results/sources.csv",
+      "bytes": 3807,
+      "sha256": "347813b76df4a0fa5fc7415d5773d64d5a66d9195e34a9c5c5a08769f3c9afab"
+    }
+  ]
+}
